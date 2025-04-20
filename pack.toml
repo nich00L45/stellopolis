@@ -1,0 +1,13 @@
+name = "Stellopolis"
+author = "renamin"
+version = "2.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "25943899d3b635ed22d3cdc542c56ad859b0100463db4c5607bf1ab3195171cf"
+
+[versions]
+fabric = "0.16.13"
+minecraft = "1.21.5"
