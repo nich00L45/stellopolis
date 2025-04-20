@@ -221,3 +221,7 @@ hash = "f6608570d9c2a1828e6e2ac353b678dd0395471d35ecc470f81cfdf34391d039"
 [[files]]
 file = "servers.dat"
 hash = "f57b387d66ddf5a0dc5f067a37b681e71fd88bb93e3474f7b524338c3c80455e"
+
+[[files]]
+file = "update_modpack.bat"
+hash = "a846a9afc9892103586c1b681862e9accaeac79376b0a0997c54987409ddf74f"
