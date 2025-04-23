@@ -279,13 +279,9 @@ file = "mods/weaponmaster_ydm-fabric-1.21.5-4.2.7.jar"
 hash = "54f2a8e839fa3f3dad4c0ec08313a034aad8ce2e8efd2f98544cb0c744ccffa6"
 
 [[files]]
-file = "packwiz-install.exe"
-hash = "f6608570d9c2a1828e6e2ac353b678dd0395471d35ecc470f81cfdf34391d039"
-
-[[files]]
 file = "servers.dat"
 hash = "f57b387d66ddf5a0dc5f067a37b681e71fd88bb93e3474f7b524338c3c80455e"
 
 [[files]]
 file = "update_modpack.bat"
-hash = "7fa32a0fac6217b0627b02f32e5bba753b674c8ddbee458db649a7ce3e2f9324"
+hash = "68790871c0b108b10b74c14af16b49bb42ac56a5dbc2dbe38c95071283e4cc94"
