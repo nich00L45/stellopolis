@@ -51,10 +51,6 @@ file = "mods/ImmediatelyFast-Fabric-1.9.3+1.21.5.jar"
 hash = "805ed73e9ff45f2c113bde122cfa649263bc1c1cc138d4ab7f15ddd17bcffec3"
 
 [[files]]
-file = "mods/Invisible item frame.zip"
-hash = "423317de4c31881ca5761092a3ddde9e8a979b6f10f9d24f3916dcf2e7a646be"
-
-[[files]]
 file = "mods/Jade-1.21.5-Fabric-18.1.0.jar"
 hash = "64cec1707c0f33f0fd0826c7f86bf7f0c923729f5c8c1fd07fae7274a5afd018"
 
@@ -75,8 +71,8 @@ file = "mods/NoChatReports-FABRIC-1.21.5-v2.12.0.jar"
 hash = "d0f8f5638511c865f65df20a016a4fc149a9023842cbe50ee422183af9ca561d"
 
 [[files]]
-file = "mods/PuzzlesLib-v21.5.6-1.21.5-Fabric.jar"
-hash = "6b75af7e5e32996eef84e3167520891f80caf372cfb0c9a0d2f5d6b89c179a3e"
+file = "mods/PuzzlesLib-v21.5.9-1.21.5-Fabric.jar"
+hash = "6b71f86d7ecd39ca2d6e041b765b2ca9856ceab9abaeedcddfdae5948600ae76"
 
 [[files]]
 file = "mods/RoughlyEnoughItems-19.0.806-fabric.jar"
@@ -87,12 +83,12 @@ file = "mods/ShoulderSurfing-Fabric-1.21.5-4.10.5.jar"
 hash = "395cbf745c47e6ef62dacb7765514e4def5b42232fb66780b8f72f6013aa5346"
 
 [[files]]
-file = "mods/XaerosWorldMap_1.39.7_Fabric_1.21.5.jar"
-hash = "77e9e3b4478596c74eea763625ec425091e3465c16aa2d3ed7c056c28c0d2ff2"
+file = "mods/XaerosWorldMap_1.39.8_Fabric_1.21.5.jar"
+hash = "865eb4fb208e2a7aca49187988cd3987a223c61f890683f4e0ec7fa9f74ad11d"
 
 [[files]]
-file = "mods/Xaeros_Minimap_25.2.4_Fabric_1.21.5.jar"
-hash = "70a7bc7588b92dd58e388801e06cf9e3abe16ec127255a890c55e7900b207871"
+file = "mods/Xaeros_Minimap_25.2.5_Fabric_1.21.5.jar"
+hash = "e254929647b3490ad5ef4962c4415593c308798db3d611725c70ed396940d2f0"
 
 [[files]]
 file = "mods/Zoomify-2.14.2+1.21.3.jar"
@@ -113,10 +109,6 @@ hash = "a9d53c7c4f6aa3329c27f2b882b9cae9e38706fd6b61cc922e4b8529e8ab031b"
 [[files]]
 file = "mods/balm-fabric-1.21.5-21.5.13.jar"
 hash = "1951ca4539cf4ffba6049000a472b41b4354185806b05d72c1c71ce62172071b"
-
-[[files]]
-file = "mods/bat membranes v1.0.12 (MC 1.21-1.21.5).zip"
-hash = "2f6157705e4db015c36de9f697ae3c739d9063cb9c5fc9278a6c1fa7935266f3"
 
 [[files]]
 file = "mods/bedspreads-fabric-9.0.0+1.21.5.jar"
@@ -165,10 +157,6 @@ hash = "4fdf70ce4e2ef94e6894cde6edc22ca493c738b90d019c1c849c5a2d20d5d868"
 [[files]]
 file = "mods/combatplus-core-4.0.0+1.21.5.jar"
 hash = "d15cf577842239660caecf2eb656340e1789d10618db8a18c57652d03d5616f8"
-
-[[files]]
-file = "mods/confetti creepers v2.2.12 (MC 1.21-1.21.5).zip"
-hash = "01dae4693ac5db004418fe6dad5897caa1256d280896c076c961e39509449747"
 
 [[files]]
 file = "mods/controlify-2.1.1+1.21.5-fabric.jar"
@@ -223,6 +211,10 @@ file = "mods/enchantable-mace-2.0.0.jar"
 hash = "bc9867de04c9a36e4c48d956c6cf950b151590839125017da16bb5cc2a305ae2"
 
 [[files]]
+file = "mods/entity_model_features_fabric_1.21.5-2.4.3.jar"
+hash = "8b5d3e6cf07c18f5f292846e04b604e6fe8532200240fcd2830c5d49f14aee6f"
+
+[[files]]
 file = "mods/entity_texture_features_fabric_1.21.5-6.2.13.jar"
 hash = "be7a67b1bdf10177e90a9c04e8d7188e05942992f3f93da298f2e25ad4d11af4"
 
@@ -275,8 +267,8 @@ file = "mods/image2map-0.9.0+1.21.5.jar"
 hash = "818df55b6d7e64818e88f7a115332612dc55e5637b9cf40f11d192e2d45a805b"
 
 [[files]]
-file = "mods/inventorysorter-fabric-2.0.2+mc1.21.5.jar"
-hash = "9b0f03c84814a4df9a64efd0b94695d23e6ba35f0f8dba91feda92e29ff67d3e"
+file = "mods/inventorysorter-fabric-2.0.3+mc1.21.5.jar"
+hash = "f4b572e82277dd5e79aab7d6eea19499d91449eac26b8a14eb4126d602089272"
 
 [[files]]
 file = "mods/iris-fabric-1.8.11+mc1.21.5.jar"
@@ -297,10 +289,6 @@ hash = "ac6c14558c34912c0360542e16099686cf7ac928e0defd98bfc7ea85d024a3aa"
 [[files]]
 file = "mods/leafmealone-1.0.1.jar"
 hash = "250ed81f8670d0afca9fec58d6c53b6023f3d66f1c78a26add87999d17e6e440"
-
-[[files]]
-file = "mods/leashmod-1.2.0+1.21.4.jar"
-hash = "ea9f0011c66d9f2cb9ba61e9260cd49d0a410c9393408b55aff7c621dc295d52"
 
 [[files]]
 file = "mods/leashmod-1.2.1+1.21.5.jar"
@@ -397,18 +385,6 @@ hash = "63a29f2acf4be2c5ca89a81a046c1100111ad2865d9638f638e27ca161e7211c"
 [[files]]
 file = "mods/veinminer-fabric-2.4.2.jar"
 hash = "80dafbd691cf025ba92d05317c45b46a5d6d4d1a3baa97ac1eb7b2cb56d19342"
-
-[[files]]
-file = "mods/villager death messages v1.2.13 (MC 1.21-1.21.5).zip"
-hash = "c2a5e483b277e029b74786875b0f2967cc432d2d96b886d30a3fdd4a4d6a50f2"
-
-[[files]]
-file = "mods/villager workstation highlights v1.1.11 (MC 1.21-1.21.5).zip"
-hash = "e6f0ba429bdfbd39229077e3a9f156b772b90407838d7b1bc66749df92db29eb"
-
-[[files]]
-file = "mods/wandering trader announcements v1.0.4 (MC 1.21-1.21.5).zip"
-hash = "082e80d2c39335995fb4cacfdbe7b0525be096b0e4c71698e0b09e60bf0affd4"
 
 [[files]]
 file = "mods/weaponmaster_ydm-fabric-1.21.5-4.2.7.jar"
